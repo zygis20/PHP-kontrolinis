@@ -1,0 +1,18 @@
+{
+    "name": "codeacademy/mars-game",
+    "description": "MVC web browsing game",
+    "authors": [
+        {
+            "name": "Žygimantas Apulskis",
+            "email": "apulskis123@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "app/code"
+        }
+    }
+}
